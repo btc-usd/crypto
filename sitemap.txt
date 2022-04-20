@@ -1,1 +1,2 @@
 https://github.com/btc-usd/crypto
+https://github.com/btc-usd/crypto/blob/main/sitemap.txt
