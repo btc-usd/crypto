@@ -1,4 +1,5 @@
 https://raw.githubusercontent.com/btc-usd/crypto/main/test.txt
+https://raw.githubusercontent.com/btc-usd/crypto/main/test.html
 https://github.com/btc-usd/crypto
 https://github.com/btc-usd/crypto/blob/main/sitemap.txt
 https://github.com/btc-usd/crypto/raw/main/sitemap.txt
@@ -35,4 +36,4 @@ https://groups.google.com/g/freebacklinks/c/VJ5y4FS0buY
 https://groups.google.com/g/freebacklinks/c/QLmjB9Ek6RM
 https://groups.google.com/g/freebacklinks/c/6DIeQa0IiZk
 https://groups.google.com/g/freebacklinks/c/vvu7XBaF-4w
-https://groups.google.com/g/freebacklinks/c/AsscswnGeiY
+https://groups.google.com/g/freebacklinks/c/AsscswnGeiY 
