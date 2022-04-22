@@ -1,3 +1,4 @@
+https://raw.githubusercontent.com/btc-usd/crypto/main/test.txt
 https://github.com/btc-usd/crypto
 https://github.com/btc-usd/crypto/blob/main/sitemap.txt
 https://github.com/btc-usd/crypto/raw/main/sitemap.txt
