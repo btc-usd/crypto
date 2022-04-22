@@ -1,2 +1,2 @@
 https://raw.githubusercontent.com/btc-usd/crypto/main/test.txt
-https://raw.githubusercontent.com/btc-usd/crypto/main/test.html
+https://raw.githubusercontent.com/btc-usd/crypto/main/test.html 
